@@ -9,6 +9,7 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 st.set_option('deprecation.showPyplotGlobalUse', False)
 nltk.download('punkt')
 nltk.download('stopwords')
+nltk.download('vader_lexicon')
 
 
 # get the words from a wikipedia artcile from the topic and remove the stopwords and remove the string punctuation
