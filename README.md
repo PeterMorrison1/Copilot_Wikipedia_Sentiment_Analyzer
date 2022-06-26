@@ -1,7 +1,7 @@
 # Copilot_Wikipedia_Sentiment_Analyzer
 This project uses Github Copilot to write all logic. I just wrote the comments.
 
-See the Streamlit app on this page:
+See the Streamlit app on this page: https://petermorrison1-copilot-wikipedia-sentiment-analyzer-app-fjulln.streamlitapp.com/
 
 The libaries used include:
 * [Pandas](https://pandas.pydata.org/)
